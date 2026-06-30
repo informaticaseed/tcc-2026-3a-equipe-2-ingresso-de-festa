@@ -7,18 +7,20 @@
 
 | Nome completo | GitHub | Turma |
 |--------------|--------|-------|
-| (nome 1) | @username | 3A |
-| (nome 2) | @username | 3A |
-| (nome 3) | @username | 3A |
+| Roberto Dias Ahlert | @robertodiasahlert-a11y | 3A |
+| Pietro Gustavo | @username | 3A |
+| Israel Torquato | @username | 3A |
+| Ravi Murici | @username | 3A |
+| Kalel | @username | 3A |
 
-**Tema:** (escreva aqui em 1 frase)
+**Tema:** Site que possibilita um usuario comum criar um evento proprio
 **Tecnologia:** Python + Flask + SQLite
 
 ---
 
 ## 🎯 O que o sistema faz
 
-(Descreva em 2-3 frases o problema que o sistema resolve e para quem)
+Não existe uma ferramenta facil para organizar o proprio evento. Usualmente o usuario necessita fazer ligações em diversos lugares, como distribuidoras, locais de evento, djs. Para isso serve nosso sistema, para que seja facilitado para o usuario a criação de seu evento.
 
 ---
 
@@ -26,8 +28,8 @@
 
 1. **Segunda** — cada integrante abre Issues da semana (use o template "Tarefa Semanal")
 2. **Durante a semana** — trabalham e fazem commits
-3. **Sexta** — o grupo abre 1 Pull Request linkando as Issues concluídas
-4. **Push** — métricas de participação aparecem automaticamente no Actions
+3. **Sexta** — Reunião decidindo oque sera feito na semana sequente
+4. **Sabado** — Verificação de tudo o que foi feito na semana
 
 ---
 
