@@ -1,7 +1,6 @@
 # Acompanhamento Quinzenal — Prof. Rafael
-**Grupo:** [Nome do Grupo]
-**Turma:** 3A / 3B / 3C
-**Repositório:** [link]
+**Grupo:** Ingresso de Festas
+**Turma:** 3A
 
 ---
 
@@ -11,9 +10,17 @@
 
 | Integrante | O que se comprometeu a fazer |
 |-----------|------------------------------|
-| (nome 1) | |
-| (nome 2) | |
-| (nome 3) | |
+| Pietro |- backend: CRUD evento; CRUD usuário ; Venda; CRUD  produtor - frontend: CRUD evento; CRUD usuário; identificação idade pela foto; venda; crud Produtor |
+| Israel | - banco de dados (sqlite): passar de postgree para sqlite-> evento, usuário, produtor, venda |
+| Kalel |  - Layout: wireframe, identidade do site (escolha das cores) e logo do site  |
+| Ravi | Relatório: levantamento dos requisitos, diagrama de caso uso|
+
+Backlog: - Layout: wireframe, identidade do site (escolha das cores) e logo do site
+- backend: CRUD evento; CRUD usuário; identificação idade pela foto ; Venda; CRUD  produtor
+- frontend: CRUD evento; CRUD usuário; identificação idade pela foto; venda; crud Produtor
+- banco de dados (sqlite): passar de postgree para sqlite-> evento, usuário, produtor, venda 
+- Relatório: passar para o formato padrão de TCC da escola; levantamento dos requisitos, diagrama de caso uso, diagrama de modelo relacional
+
 
 ### Verificação em 08/08
 
