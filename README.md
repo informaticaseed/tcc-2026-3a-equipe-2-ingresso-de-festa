@@ -7,7 +7,6 @@
 
 | Nome completo | GitHub | Turma |
 |--------------|--------|-------|
-| Roberto Dias Ahlert | @robertodiasahlert-a11y | 3A |
 | Pietro Gustavo | @username | 3A |
 | Israel Torquato | @username | 3A |
 | Ravi Murici | @username | 3A |
