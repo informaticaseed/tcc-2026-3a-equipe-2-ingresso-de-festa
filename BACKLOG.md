@@ -1,4 +1,4 @@
-# Backlog do MVP — [Nome do Grupo]
+# Backlog do MVP — Vibra
 
 > Este arquivo é o resumo fixo do projeto.
 > O backlog semanal vivo fica nas **Issues** do repositório.
@@ -16,12 +16,12 @@
 
 | # | Funcionalidade | Prioridade | Status |
 |---|---------------|-----------|--------|
-| 1 | (escreva aqui) | Alta | ⏳ A fazer |
-| 2 | (escreva aqui) | Alta | ⏳ A fazer |
-| 3 | (escreva aqui) | Alta | ⏳ A fazer |
-| 4 | (escreva aqui) | Média | ⏳ A fazer |
-| 5 | (escreva aqui) | Média | ⏳ A fazer |
-| 6 | (escreva aqui) | Baixa | ⏳ A fazer |
+| 1 | (Frontend_Reeact) | Alta  | ⏳ A fazer |
+| 2 | (Backend_Js-React)| Alta  | ⏳ A fazer |
+| 3 | (Banco de Dados)  | Alta  | ⏳ A fazer |  
+| 4 | ("Drawo.io"-DFD/Casos de Uso/DER/Fluxogramas)| Média | ⏳ A fazer|
+| 5 | ("Figma"-Desing-do-site) | Média | ⏳ Em andamento |
+| 6 | ("Miro"-organograma) | Baixa | ⏳ Feito |
 
 > Atualize o Status conforme avança: ⏳ A fazer → 🔄 Fazendo → ✅ Feito
 
@@ -29,7 +29,7 @@
 
 ## 🚫 Fora do escopo (não entra no MVP)
 
-- (o que vocês decidiram não fazer)
+- (o que vocês decidiram não fazer: implementar ia de estiamativa de idade com reconhecimento facial)
 - (o que ficou para depois)
 
 ---
@@ -40,3 +40,4 @@
 - **Pull Requests:** [link dos PRs]
 - **Painel do professor:** [link do GitHub Project]
 - **Diagrama de arquitetura:** docs/arquitetura.md
+

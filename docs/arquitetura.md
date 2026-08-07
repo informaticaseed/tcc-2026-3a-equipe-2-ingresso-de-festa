@@ -1,6 +1,6 @@
 # Arquitetura do Sistema
 
-**Grupo:** (nome do grupo)
+**Grupo:** Vibra
 **Última atualização:** (data)
 
 ---

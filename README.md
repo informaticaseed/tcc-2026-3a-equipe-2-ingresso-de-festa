@@ -1,4 +1,4 @@
-# TCC 2026 — [Nome do Grupo]
+# TCC 2026 — Vibra
 **LTP3 + QP3 · CEMIC 2026 · Prof. Rafael Martins Alves**
 
 ---
@@ -9,7 +9,7 @@
 |--------------|--------|-------|
 | Roberto Dias Ahlert | @robertodiasahlert-a11y | 3A |
 | Pietro Gustavo | @username | 3A |
-| Israel Torquato | @username | 3A |
+| Israel Torquato | @Israeldavidzinho-dev | 3A |
 | Ravi Murici | @username | 3A |
 | Kalel | @username | 3A |
 
