@@ -37,13 +37,14 @@ Backlog: - Layout: wireframe, identidade do site (escolha das cores) e logo do s
 
 ## Quinzena 2 — 10/08 a 22/08
 
-### Compromissos assumidos em 10/08
+### Compromissos assumidos em 20/08
 
 | Integrante | O que se comprometeu a fazer |
 |-----------|------------------------------|
-| (nome 1) | |
-| (nome 2) | |
-| (nome 3) | |
+|-----------|------------------------------|
+| Pietro |   Integrar com o backend através do claude|
+| Israel | Clonar para o repositório o projeto do lovable e Clonar o repositório github para a máquina local/Pietro e do Israel |
+| Kalel |  Converter o site do figam para o Lovable   |
 
 ### Verificação em 22/08
 
