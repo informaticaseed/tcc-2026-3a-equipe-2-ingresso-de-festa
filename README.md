@@ -7,10 +7,8 @@
 
 | Nome completo | GitHub | Turma |
 |--------------|--------|-------|
-| Roberto Dias Ahlert | @robertodiasahlert-a11y | 3A |
 | Pietro Gustavo | @username | 3A |
 | Israel Torquato | @Israeldavidzinho-dev | 3A |
-| Ravi Murici | @username | 3A |
 | Kalel | @username | 3A |
 
 **Tema:** Site que possibilita um usuario comum criar um evento proprio
